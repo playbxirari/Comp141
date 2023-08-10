@@ -1,4 +1,5 @@
 [
+jq '.breed'
   {
     "breed": "Abyssinian",
     "country": "Ethiopia",
@@ -70,4 +71,4 @@
     "pattern": "Solid"
   }
 ]
-jq '.breed'
+
